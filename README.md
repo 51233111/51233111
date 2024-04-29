@@ -19,6 +19,8 @@ for IPv6 only Ubuntu:
 Host github.com
 User git
 Hostname github.com
+
+https://github.com/mdewcm2024/5jstud-5jsite/settings
 ProxyCommand /usr/bin/ncat --proxy p4.cycu.org:3128 --proxy-type http %h %p
 
 for Replit:
